@@ -1,0 +1,5 @@
+#ignore the sql backupfile and any settings.php and settings backup files.
+#
+my-detest.sql
+my-drupal-db-backup.sql
+sites/default/settings.php
